@@ -37,11 +37,11 @@ body {
   transition: background var(--transition), color var(--transition);
 }
 
-.nadav_img {
-  height: 1%;
-  width: 1%;
+/* .nadav_img {
+  height: 50px;
+  width: 50px;
   align-items: center;
-}
+} */
 
 body:has(input[value="dark"]:checked),
 body.dark {
